@@ -2,7 +2,7 @@
 
 items = []
 n = 0
-i = 0 #pasada actua
+i = 0 #pasada actual
 j = 0 #posicion dentro de la pasada
 
 def init(vals):
