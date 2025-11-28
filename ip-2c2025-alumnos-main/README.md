@@ -28,7 +28,7 @@ podés agregar: sort_quick.py, sort_merge.py, sort_shell.py, ...
 > **Nota:** la extensión “imagen por columnas” ya está implementada.  
 > Tus algoritmos trabajan sobre una lista de enteros; la UI se encarga de mostrar y mover las columnas.
 
----
+--
 
 ## ▶️ Cómo ejecutar el visualizador
 1. En una terminal, ubicarse en la carpeta `/visualizador`  
